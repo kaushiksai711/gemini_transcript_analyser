@@ -4,7 +4,7 @@ Demo script for the Gemini Video Transcript Analysis MVP.
 This script demonstrates how to use the library to process a transcript
 and ask questions about it.
 """
-GOOGLE_API_KEY="AIzaSyD6mnqvq--x7fQItxudfv9Vxu7QTGGP0FQ"
+GOOGLE_API_KEY=""
 import os
 import time
 from gemini_mvp import TranscriptProcessor
