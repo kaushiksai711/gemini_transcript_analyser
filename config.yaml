@@ -1,0 +1,34 @@
+# Gemini MVP Configuration
+
+# Transcript Processing
+transcript:
+  chunk_size: 1000         # Target size for transcript chunks
+  chunk_overlap: 200       # Overlap between consecutive chunkst
+
+# Context Management
+context:
+  weights:
+    recency: 0.3           # Weight for recency score
+    relevance: 0.5         # Weight for semantic relevance
+    entity_overlap: 0.2    # Weight for entity overlap
+  history_limit: 5         # Number of previous QA pairs to maintain
+  max_context_chunks: 10
+# Cache Settings
+cache:
+  memory_cache_size: 100   # Number of items in LRU memory cache
+  disk_cache_dir: ".cache" # Directory for persistent cache
+  cache_ttl: 3600          # Cache expiration in seconds
+
+# API Settings
+api:
+  model: "gemini-2.0-flash-thinking-exp-01-21"      # Gemini model to use
+  max_retries: 3           # Maximum number of API retry attempts
+  retry_delay: 2           # Initial delay between retries (seconds)
+  temperature: 0.2         # Model temperature for responses
+  max_output_tokens: 1024  # Maximum tokens in the response
+  
+# Dependency Tracking
+dependency:
+  similarity_threshold: 0.65  # Threshold for semantic similarity
+  keyword_threshold: 0.4      # Threshold for keyword overlap
+  confidence_blend: 0.7       # Weight for semantic vs keyword (1.0 = semantic only)

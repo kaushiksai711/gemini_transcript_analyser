@@ -1,0 +1,12 @@
+[server]
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
+
+[global]
+disableWatchdogWarning = true
+
+[runner]
+# Add modules that should not be watched
+fastReruns = true

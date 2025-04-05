@@ -1,0 +1,1470 @@
+{
+  "results": [
+    {
+      "answer": "Based on the transcript excerpts, here's why lotus silk is rare and labor-intensive, and how it is extracted by hand:\n\n### Rarity of Lotus Silk\n\n*   **One of the rarest fabrics in the world:** Lotus silk is explicitly stated to be \"one of the rarest fabrics in the world\" [00:00:33].\n*   **Small-scale production:** It is \"produced only in small scale across Cambodia, Myanmar, and, more recently, Vietnam\" [00:00:36, 00:00:40].\n*   **Limited skilled craftspeople:** The extraction of this natural fiber is \"only extracted by a few skilled craftspeople across the world\" [00:00:42, 00:00:44].\n*   **Seasonal availability of lotus plants:** Lotus plants, the source",
+      "success": true,
+      "response_time": 13.795208215713501,
+      "timestamps": [
+        "00:00:16.683",
+        "00:00:19.644",
+        "00:00:25.316",
+        "00:00:27.527",
+        "00:00:33",
+        "00:00:33.533",
+        "00:00:35.660",
+        "00:00:36",
+        "00:00:36.911",
+        "00:00:40",
+        "00:00:40.415",
+        "00:00:42",
+        "00:00:42.125",
+        "00:00:44",
+        "00:00:44.419",
+        "00:00:47.756",
+        "00:00:50.675",
+        "00:00:53.011",
+        "00:00:54.596",
+        "00:00:57.015",
+        "00:00:58.349",
+        "00:01:00.060",
+        "00:01:06.649",
+        "00:01:08.860",
+        "00:01:11.863",
+        "00:01:15.492",
+        "00:01:18.453",
+        "00:01:20.872",
+        "00:01:22.373",
+        "00:01:24.793",
+        "00:01:26.336",
+        "00:01:36.054",
+        "00:01:38.389",
+        "00:01:40.642",
+        "00:01:42.519",
+        "00:01:44.813",
+        "00:02:15.802",
+        "00:02:17.512",
+        "00:02:20.140",
+        "00:02:22.350",
+        "00:02:25.019",
+        "00:02:27.939",
+        "00:02:30.024",
+        "00:02:58.970",
+        "00:03:01.472",
+        "00:03:03.725",
+        "00:03:05.727",
+        "00:03:07.187",
+        "00:03:09.981",
+        "00:03:12.442",
+        "00:03:15.278",
+        "00:03:18.239",
+        "00:03:20.491",
+        "00:03:23.578",
+        "00:03:24.829",
+        "00:03:26.247",
+        "00:04:25.723"
+      ],
+      "confidence": 1.0,
+      "context_chunks": [
+        {
+          "chunk_id": 3,
+          "text": "00:00:47.756 But making this silk isn't easy.\n\n00:00:50.675 Extracting enough lotus silk for one scarf\n\n00:00:53.011 can take two months,\n\n00:00:54.596 and the final productcan cost 10 times as much\n\n00:00:57.015 as regular silk.\n\n00:00:58.349 So just how is it made,\n",
+          "start_time": "00:00:47.756",
+          "end_time": "00:00:58.349",
+          "entities": [
+            "But",
+            "Extracting",
+            "So"
+          ],
+          "topics": [
+            "silk",
+            "making",
+            "this",
+            "easy",
+            "extracting"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 7,
+          "text": "00:01:36.054 they do most of the hard work themselves.\n\n00:01:38.389 The key difference betweenthe bright yellow silk\n\n00:01:40.642 and the paler lotus version\n\n00:01:42.519 is that every single strand of lotus silk\n\n00:01:44.813 must be extracted by hand.\n\n00:02:15.802 Narrator: Each thread oflotus silk starts with\n",
+          "start_time": "00:01:44.813",
+          "end_time": "00:02:25.019",
+          "entities": [
+            "Narrator",
+            "Each"
+          ],
+          "topics": [
+            "silk",
+            "lotus",
+            "they",
+            "most",
+            "hard"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 5,
+          "text": "00:01:15.492 But making lotus silk is different.\n\n00:01:18.453 Silk usually comes from silkworms.\n\n00:01:20.872 They're kept on wide trays\n\n00:01:22.373 and need to be fed almost 24 hours a day\n\n00:01:24.793 with mulberry leaves.\n\n00:01:26.336 The caterpillars delicately spin threads\n",
+          "start_time": "00:01:20.872",
+          "end_time": "00:01:29.798",
+          "entities": [
+            "But",
+            "Silk",
+            "They"
+          ],
+          "topics": [
+            "silk",
+            "making",
+            "lotus",
+            "different",
+            "usually"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 1,
+          "text": "00:00:16.683 To celebrate 10 seasons of \"So Expensive,\"\n\n00:00:19.644 sit back and enjoy this 10-hour marathon.\n\n00:00:25.316 First up: lotus silk,\n\n00:00:27.527 extracted by hand, one stem at a time.\n\n00:00:33.533 Lotus silk is one of the rarest fabrics\n\n00:00:35.660 in the world,\n",
+          "start_time": "00:00:13.263",
+          "end_time": "00:00:27.527",
+          "entities": [
+            "To",
+            "So Expensive",
+            "First",
+            "Lotus"
+          ],
+          "topics": [
+            "lotus",
+            "silk",
+            "celebrate",
+            "seasons",
+            "expensive"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 4,
+          "text": "00:00:58.349 So just how is it made,\n\n00:01:00.060 and what makes it so expensive?\n\n00:01:06.649 Phan Thi Thuan's familyhave been making silk\n\n00:01:08.860 for generations, growingand harvesting the threads\n\n00:01:11.863 from silkworms themselvesto create luxury garments.\n\n00:01:15.492 But making lotus silk is different.\n",
+          "start_time": "00:01:00.060",
+          "end_time": "00:01:18.453",
+          "entities": [
+            "So",
+            "Phan Thi Thuan",
+            "But"
+          ],
+          "topics": [
+            "making",
+            "silk",
+            "just",
+            "made",
+            "makes"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 11,
+          "text": "00:03:18.239 And the lotus plants areonly available to harvest\n\n00:03:20.491 between April and October.\n\n00:03:23.578 Once you've gone through the hard work\n\n00:03:24.829 of extracting these fibers,\n\n00:03:26.247 they're incredibly delicate, too.\n\n00:04:25.723 Narrator: Once dry, thesethreads are carefully\n",
+          "start_time": "00:04:34.190",
+          "end_time": "00:04:46.244",
+          "entities": [
+            "And",
+            "April",
+            "October",
+            "Once",
+            "Narrator",
+            "Once"
+          ],
+          "topics": [
+            "once",
+            "lotus",
+            "plants",
+            "areonly",
+            "available"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 8,
+          "text": "00:02:15.802 Narrator: Each thread oflotus silk starts with\n\n00:02:17.512 the stem of the lotus flower.\n\n00:02:20.140 The lotus is Vietnam's national flower\n\n00:02:22.350 and a plant that's grownacross the country.\n\n00:02:25.019 While this fabric has beenmade for years in Myanmar,\n\n00:02:27.939 Phan Thi Thuan only started experimenting\n",
+          "start_time": "00:02:27.939",
+          "end_time": "00:03:07.187",
+          "entities": [
+            "Narrator",
+            "Each",
+            "Vietnam",
+            "While",
+            "Myanmar",
+            "Phan Thi Thuan"
+          ],
+          "topics": [
+            "lotus",
+            "flower",
+            "narrator",
+            "each",
+            "thread"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 10,
+          "text": "00:03:05.727 of thin, sticky fibers,\n\n00:03:07.187 which must be rolled together and dried.\n\n00:03:09.981 The threads need to beprocessed within 24 hours\n\n00:03:12.442 while they're still wet;otherwise, they'll break.\n\n00:03:15.278 And so harvesting has to be done each day.\n\n00:03:18.239 And the lotus plants areonly available to harvest\n",
+          "start_time": "00:03:23.578",
+          "end_time": "00:04:31.980",
+          "entities": [
+            "And",
+            "And"
+          ],
+          "topics": [
+            "they",
+            "thin",
+            "sticky",
+            "fibers",
+            "rolled"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 2,
+          "text": "00:00:35.660 in the world,\n\n00:00:36.911 produced only in small scaleacross Cambodia, Myanmar,\n\n00:00:40.415 and, more recently, Vietnam.\n\n00:00:42.125 This natural fiber is only extracted\n\n00:00:44.419 by a few skilled craftspeopleacross the world.\n\n00:00:47.756 But making this silk isn't easy.\n",
+          "start_time": "00:00:33.533",
+          "end_time": "00:00:44.419",
+          "entities": [
+            "Cambodia",
+            "Myanmar",
+            "Vietnam",
+            "But"
+          ],
+          "topics": [
+            "world",
+            "only",
+            "this",
+            "produced",
+            "small"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 9,
+          "text": "00:02:27.939 Phan Thi Thuan only started experimenting\n\n00:02:30.024 with this fiber in 2017.\n\n00:02:58.970 Narrator: Once the stem isselected and picked by hand,\n\n00:03:01.472 the silk inside can be extracted.\n\n00:03:03.725 Each stem contains a minuscule amount\n\n00:03:05.727 of thin, sticky fibers,\n",
+          "start_time": "00:03:09.981",
+          "end_time": "00:03:20.491",
+          "entities": [
+            "Phan Thi Thuan",
+            "Narrator",
+            "Once",
+            "Each"
+          ],
+          "topics": [
+            "stem",
+            "phan",
+            "thuan",
+            "only",
+            "started"
+          ],
+          "creation_time": 1743865703.12974
+        }
+      ],
+      "query_type": "factual",
+      "timestamp": "2025-04-05T20:39:21.218370",
+      "tokens_used": 947,
+      "batch_id": "demo_1743865706",
+      "question": "What makes lotus silk so rare and labor-intensive, and how is it extracted by hand?"
+    },
+    {
+      "answer": "Based on the transcript excerpts provided, here is a comparison of Japanese chef\u2019s knives and lotus silk in terms of craftsmanship and price:\n\n### Japanese Chef\u2019s Knives\n\n*   **Craftsmanship:**\n    *   Japanese artisans spend a \"lifetime learning to master\" the skills involved in crafting these knives [00:06:24].\n    *   Terukazu has spent \"37 years crafting chef's knives\" [00:06:58].\n    *   Each knife goes through \"100 production stages\" [00:07:05].\n    *   The process requires \"over 10 years of practice\" [00:07:09].\n    *   Craftsmanship involves processes like \"heating and hammering the metal\", \"sharpening the knife's edge\", and \"polishing the final blade\" [00:06:13-00:06:19].\n    *   Artisans use a \"rough grindstone made of natural rock\" [00:10:20] and spend \"another full day to secure and polish the handle\" [00:11:07].\n    *   The final knife is \"totally unique\" with \"distinct balance, thickness, and design\" [00:11:14-00:11:19].\n*   **Price:**\n    *   \"Just one can cost you over $900\" [00:06:08].\n    *   \"Most Takamura blades cost a couple hundred dollars\" [00:0",
+      "success": true,
+      "response_time": 12.795473337173462,
+      "timestamps": [
+        "00:00:58.349",
+        "00:01:00.060",
+        "00:01:06.649",
+        "00:01:08.860",
+        "00:01:11.863",
+        "00:01:15.492",
+        "00:01:36.054",
+        "00:01:38.389",
+        "00:01:40.642",
+        "00:01:42.519",
+        "00:01:44.813",
+        "00:02:15.802",
+        "00:05:08.558",
+        "00:05:09.934",
+        "00:05:12.603",
+        "00:05:14.063",
+        "00:05:16.691",
+        "00:06:03.696",
+        "00:06:05.698",
+        "00:06:08",
+        "00:06:08.910",
+        "00:06:13",
+        "00:06:13.247",
+        "00:06:18.211",
+        "00:06:19",
+        "00:06:19.962",
+        "00:06:22.632",
+        "00:06:24",
+        "00:06:24.759",
+        "00:06:29.180",
+        "00:06:32.016",
+        "00:06:58",
+        "00:06:58.543",
+        "00:07:01.796",
+        "00:07:05",
+        "00:07:05.216",
+        "00:07:09",
+        "00:07:09.053",
+        "00:07:40.626",
+        "00:07:43.129",
+        "00:07:45.882",
+        "00:07:48.468",
+        "00:07:49.385",
+        "00:07:52.722",
+        "00:07:56.476",
+        "00:08:37.099",
+        "00:08:39.644",
+        "00:08:41.102",
+        "00:08:43.397",
+        "00:08:51.489",
+        "00:08:52.823",
+        "00:10:00.600",
+        "00:10:04.020",
+        "00:10:14.113",
+        "00:10:15.906",
+        "00:10:20",
+        "00:10:20.661",
+        "00:10:23.372",
+        "00:11:07",
+        "00:11:07.750",
+        "00:11:14",
+        "00:11:14.840",
+        "00:11:17.551",
+        "00:11:19",
+        "00:11:19.387",
+        "00:11:57.883",
+        "00:11:59.385"
+      ],
+      "confidence": 1.0,
+      "context_chunks": [
+        {
+          "chunk_id": 18,
+          "text": "00:06:19.962 and polishing the final blade,\n\n00:06:22.632 these are only a few of the skills\n\n00:06:24.759 a Japanese artisan spends alifetime learning to master.\n\n00:06:29.180 So what makes these knives so coveted?\n\n00:06:32.016 And why are they so expensive?\n\n00:06:58.543 Narrator: Terukazu has spent37 years crafting chef's knives\n",
+          "start_time": "00:07:56.476",
+          "end_time": "00:08:37.099",
+          "entities": [
+            "Japanese",
+            "So",
+            "And",
+            "Narrator",
+            "Terukazu"
+          ],
+          "topics": [
+            "these",
+            "knives",
+            "polishing",
+            "final",
+            "blade"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 19,
+          "text": "00:06:58.543 Narrator: Terukazu has spent37 years crafting chef's knives\n\n00:07:01.796 at his family's factory in Echizen.\n\n00:07:05.216 Each one goes through100 production stages.\n\n00:07:09.053 It's a process that requiresover 10 years of practice.\n\n00:07:40.626 Narrator: Compared to popularEuropean chef's knives,\n\n00:07:43.129 Japanese blades are lighter and sharper,\n",
+          "start_time": "00:08:39.644",
+          "end_time": "00:09:01.332",
+          "entities": [
+            "Narrator",
+            "Terukazu",
+            "Echizen",
+            "Each",
+            "Narrator",
+            "Compared",
+            "Japanese"
+          ],
+          "topics": [
+            "narrator",
+            "years",
+            "chef",
+            "knives",
+            "terukazu"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 20,
+          "text": "00:07:43.129 Japanese blades are lighter and sharper,\n\n00:07:45.882 allowing for more precise cuts.\n\n00:07:48.468 On the low end,\n\n00:07:49.385 most Takamura blades costa couple hundred dollars.\n\n00:07:52.722 But custom-made pieces cansell for 15 times that.\n\n00:07:56.476 One of the most expensiveknives produced by the shop\n",
+          "start_time": "00:09:04.001",
+          "end_time": "00:09:17.932",
+          "entities": [
+            "Japanese",
+            "On",
+            "Takamura",
+            "But",
+            "One"
+          ],
+          "topics": [
+            "blades",
+            "most",
+            "japanese",
+            "lighter",
+            "sharper"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 26,
+          "text": "00:10:00.600 It also added a beautifulaesthetic to each blade,\n\n00:10:04.020 another element highlyvalued in Japanese knives.\n\n00:10:14.113 Narrator: But a Japanesechef's knife wouldn't be\n\n00:10:15.906 nearly as valuable withoutits supremely sharp edge.\n\n00:10:20.661 An artisan presses the bladeagainst a rough grindstone\n\n00:10:23.372 made of natural rock,\n",
+          "start_time": "00:13:15.211",
+          "end_time": "00:14:03.133",
+          "entities": [
+            "Japanese",
+            "Narrator",
+            "But",
+            "Japanesechef"
+          ],
+          "topics": [
+            "also",
+            "added",
+            "beautifulaesthetic",
+            "each",
+            "blade"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 22,
+          "text": "00:08:37.099 It was originallydesigned for power tools,\n\n00:08:39.644 like saws and drills,\n\n00:08:41.102 because of its durability and strength --\n\n00:08:43.397 two qualities Japanese chef'sknives are known for today.\n\n00:08:51.489 Once the metal is cut,\n\n00:08:52.823 it's heated in an electric oven\n",
+          "start_time": "00:10:14.113",
+          "end_time": "00:10:24.999",
+          "entities": [
+            "Japanese",
+            "Once"
+          ],
+          "topics": [
+            "originallydesigned",
+            "power",
+            "tools",
+            "like",
+            "saws"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 17,
+          "text": "00:06:03.696 Narrator: Japanese chef'sknives are world-renowned\n\n00:06:05.698 for their unique design and durability.\n\n00:06:08.910 And just one can cost you over $900.\n\n00:06:13.247 From heating and hammering the metal\n\n00:06:18.211 to sharpening the knife's edge\n\n00:06:19.962 and polishing the final blade,\n",
+          "start_time": "00:07:40.626",
+          "end_time": "00:07:52.722",
+          "entities": [
+            "Narrator",
+            "Japanese",
+            "And",
+            "From"
+          ],
+          "topics": [
+            "narrator",
+            "japanese",
+            "chef",
+            "sknives",
+            "world"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 16,
+          "text": "00:05:08.558 as there are still few trained\n\n00:05:09.934 in the making of these silk threads.\n\n00:05:12.603 But despite the work involved,\n\n00:05:14.063 Phan Thi Thuan is hoping that this skill\n\n00:05:16.691 could one day grow tobecome a larger industry.\n\n00:06:03.696 Narrator: Japanese chef'sknives are world-renowned\n",
+          "start_time": "00:06:32.016",
+          "end_time": "00:07:09.053",
+          "entities": [
+            "But",
+            "Phan Thi Thuan",
+            "Narrator",
+            "Japanese"
+          ],
+          "topics": [
+            "there",
+            "still",
+            "trained",
+            "making",
+            "these"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 7,
+          "text": "00:01:36.054 they do most of the hard work themselves.\n\n00:01:38.389 The key difference betweenthe bright yellow silk\n\n00:01:40.642 and the paler lotus version\n\n00:01:42.519 is that every single strand of lotus silk\n\n00:01:44.813 must be extracted by hand.\n\n00:02:15.802 Narrator: Each thread oflotus silk starts with\n",
+          "start_time": "00:01:44.813",
+          "end_time": "00:02:25.019",
+          "entities": [
+            "Narrator",
+            "Each"
+          ],
+          "topics": [
+            "silk",
+            "lotus",
+            "they",
+            "most",
+            "hard"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 28,
+          "text": "00:11:07.750 and another full day tosecure and polish the handle.\n\n00:11:14.840 The final knife is totally unique --\n\n00:11:17.551 each with its own distinct balance,\n\n00:11:19.387 thickness, and design.\n\n00:11:57.883 Narrator: Several ofthe world's best chefs\n\n00:11:59.385 use Takamura's knives,\n",
+          "start_time": "00:15:15.372",
+          "end_time": "00:16:04.004",
+          "entities": [
+            "Narrator",
+            "Several",
+            "Takamura"
+          ],
+          "topics": [
+            "another",
+            "full",
+            "tosecure",
+            "polish",
+            "handle"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 4,
+          "text": "00:00:58.349 So just how is it made,\n\n00:01:00.060 and what makes it so expensive?\n\n00:01:06.649 Phan Thi Thuan's familyhave been making silk\n\n00:01:08.860 for generations, growingand harvesting the threads\n\n00:01:11.863 from silkworms themselvesto create luxury garments.\n\n00:01:15.492 But making lotus silk is different.\n",
+          "start_time": "00:01:00.060",
+          "end_time": "00:01:18.453",
+          "entities": [
+            "So",
+            "Phan Thi Thuan",
+            "But"
+          ],
+          "topics": [
+            "making",
+            "silk",
+            "just",
+            "made",
+            "makes"
+          ],
+          "creation_time": 1743865703.12974
+        }
+      ],
+      "query_type": "factual",
+      "timestamp": "2025-04-05T20:40:17.560717",
+      "tokens_used": 1108,
+      "batch_id": "demo_1743865706",
+      "question": "How do Japanese chef\u2019s knives compare in craftsmanship and price to the lotus silk featured earlier?"
+    },
+    {
+      "answer": "Error generating response: API returned empty response after all retry attempts",
+      "success": false,
+      "response_time": 20.936000108718872,
+      "error": "API returned empty response after all retry attempts"
+    },
+    {
+      "answer": "Error generating response: API returned empty response after all retry attempts",
+      "success": false,
+      "response_time": 21.501721382141113,
+      "error": "API returned empty response after all retry attempts"
+    },
+    {
+      "answer": "Error generating response: API returned empty response after all retry attempts",
+      "success": false,
+      "response_time": 21.316683292388916,
+      "error": "API returned empty response after all retry attempts"
+    },
+    {
+      "answer": "Error generating response: API returned empty response after all retry attempts",
+      "success": false,
+      "response_time": 21.75234842300415,
+      "error": "API returned empty response after all retry attempts"
+    },
+    {
+      "answer": "Based on the provided transcript excerpts, there is **no information** about Hasselblad cameras or Steinway pianos.\n\nTherefore, the transcript **does not provide any details** on how the creation of Hasselblad cameras reflects a similar blend of precision and brand legacy as Steinway pianos.\n\n**Answer:**\n\nThe provided transcript excerpts do not contain any information about Hasselblad cameras or Steinway pianos.  Therefore, based *only* on the information explicitly provided in these excerpts, it is impossible to determine in what ways the creation of Hasselblad cameras reflects a similar blend of precision and brand legacy as Steinway pianos. The transcript focuses on Japanese chef's knives [00:06:03], [00:06:58], [00:07:40], [00:08:39], [00:09:19], [00:09:53], [00:10:00], [00:10:14], [00:10:20], [00:11:05], [00:11:14], [00:11:57], Japanese calligraphy ink [00:00:05], [00:35:08], and other luxury products [00:00:10], but does not mention Hasselblad cameras or Steinway pianos at any point.",
+      "success": true,
+      "response_time": 4.415060043334961,
+      "timestamps": [
+        "00:00:01.710",
+        "00:00:05",
+        "00:00:05.213",
+        "00:00:07.340",
+        "00:00:10",
+        "00:00:10.969",
+        "00:00:13.263",
+        "00:00:16.683",
+        "00:06:03",
+        "00:06:03.696",
+        "00:06:05.698",
+        "00:06:08.910",
+        "00:06:13.247",
+        "00:06:18.211",
+        "00:06:19.962",
+        "00:06:22.632",
+        "00:06:24.759",
+        "00:06:29.180",
+        "00:06:32.016",
+        "00:06:58",
+        "00:06:58.543",
+        "00:07:01.796",
+        "00:07:05.216",
+        "00:07:09.053",
+        "00:07:40",
+        "00:07:40.626",
+        "00:07:43.129",
+        "00:08:39",
+        "00:09:06.504",
+        "00:09:10.299",
+        "00:09:13.052",
+        "00:09:16.681",
+        "00:09:17.932",
+        "00:09:19",
+        "00:09:19.934",
+        "00:09:21.561",
+        "00:09:53",
+        "00:09:53.926",
+        "00:09:56.345",
+        "00:09:58.723",
+        "00:10:00",
+        "00:10:00.600",
+        "00:10:04.020",
+        "00:10:14",
+        "00:10:14.113",
+        "00:10:15.906",
+        "00:10:20",
+        "00:10:20.661",
+        "00:10:23.372",
+        "00:10:24.999",
+        "00:10:28.753",
+        "00:10:31.672",
+        "00:11:05",
+        "00:11:05.247",
+        "00:11:07.750",
+        "00:11:14",
+        "00:11:14.840",
+        "00:11:17.551",
+        "00:11:19.387",
+        "00:11:57",
+        "00:11:57.883",
+        "00:11:59.385",
+        "00:35:08",
+        "00:35:08.940",
+        "00:35:10.775",
+        "00:35:13.319",
+        "00:35:33.464",
+        "00:35:35.591",
+        "00:35:37.093"
+      ],
+      "confidence": 1.0,
+      "context_chunks": [
+        {
+          "chunk_id": 18,
+          "text": "00:06:19.962 and polishing the final blade,\n\n00:06:22.632 these are only a few of the skills\n\n00:06:24.759 a Japanese artisan spends alifetime learning to master.\n\n00:06:29.180 So what makes these knives so coveted?\n\n00:06:32.016 And why are they so expensive?\n\n00:06:58.543 Narrator: Terukazu has spent37 years crafting chef's knives\n",
+          "start_time": "00:07:56.476",
+          "end_time": "00:08:37.099",
+          "entities": [
+            "Japanese",
+            "So",
+            "And",
+            "Narrator",
+            "Terukazu"
+          ],
+          "topics": [
+            "these",
+            "knives",
+            "polishing",
+            "final",
+            "blade"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 25,
+          "text": "00:09:19.934 discovered the benefit of knives\n\n00:09:21.561 with a textured surface, like this.\n\n00:09:53.926 Narrator: This hammeredfinish, called tsuchime,\n\n00:09:56.345 allowed chefs to chop ingredients quickly\n\n00:09:58.723 and more efficiently.\n\n00:10:00.600 It also added a beautifulaesthetic to each blade,\n",
+          "start_time": "00:12:06.726",
+          "end_time": "00:13:12.708",
+          "entities": [
+            "Narrator"
+          ],
+          "topics": [
+            "this",
+            "discovered",
+            "benefit",
+            "knives",
+            "textured"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 28,
+          "text": "00:11:07.750 and another full day tosecure and polish the handle.\n\n00:11:14.840 The final knife is totally unique --\n\n00:11:17.551 each with its own distinct balance,\n\n00:11:19.387 thickness, and design.\n\n00:11:57.883 Narrator: Several ofthe world's best chefs\n\n00:11:59.385 use Takamura's knives,\n",
+          "start_time": "00:15:15.372",
+          "end_time": "00:16:04.004",
+          "entities": [
+            "Narrator",
+            "Several",
+            "Takamura"
+          ],
+          "topics": [
+            "another",
+            "full",
+            "tosecure",
+            "polish",
+            "handle"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 26,
+          "text": "00:10:00.600 It also added a beautifulaesthetic to each blade,\n\n00:10:04.020 another element highlyvalued in Japanese knives.\n\n00:10:14.113 Narrator: But a Japanesechef's knife wouldn't be\n\n00:10:15.906 nearly as valuable withoutits supremely sharp edge.\n\n00:10:20.661 An artisan presses the bladeagainst a rough grindstone\n\n00:10:23.372 made of natural rock,\n",
+          "start_time": "00:13:15.211",
+          "end_time": "00:14:03.133",
+          "entities": [
+            "Japanese",
+            "Narrator",
+            "But",
+            "Japanesechef"
+          ],
+          "topics": [
+            "also",
+            "added",
+            "beautifulaesthetic",
+            "each",
+            "blade"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 0,
+          "text": "00:00:01.710 From professional curling stoneshoned in Scotland\n\n00:00:05.213 to Japanese calligraphy ink\n\n00:00:07.340 kneaded by foot and hand,\n\n00:00:10.969 we've investigated countless luxury\n\n00:00:13.263 products from every corner of the world.\n\n00:00:16.683 To celebrate 10 seasons of \"So Expensive,\"\n",
+          "start_time": "00:00:01.710",
+          "end_time": "00:00:10.969",
+          "entities": [
+            "From",
+            "Scotland",
+            "Japanese",
+            "To",
+            "So Expensive"
+          ],
+          "topics": [
+            "from",
+            "professional",
+            "curling",
+            "stoneshoned",
+            "scotland"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 19,
+          "text": "00:06:58.543 Narrator: Terukazu has spent37 years crafting chef's knives\n\n00:07:01.796 at his family's factory in Echizen.\n\n00:07:05.216 Each one goes through100 production stages.\n\n00:07:09.053 It's a process that requiresover 10 years of practice.\n\n00:07:40.626 Narrator: Compared to popularEuropean chef's knives,\n\n00:07:43.129 Japanese blades are lighter and sharper,\n",
+          "start_time": "00:08:39.644",
+          "end_time": "00:09:01.332",
+          "entities": [
+            "Narrator",
+            "Terukazu",
+            "Echizen",
+            "Each",
+            "Narrator",
+            "Compared",
+            "Japanese"
+          ],
+          "topics": [
+            "narrator",
+            "years",
+            "chef",
+            "knives",
+            "terukazu"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 96,
+          "text": "00:35:08.940 Narrator: Kobaien strivesto continue making\n\n00:35:10.775 calligraphy ink using the same techniques\n\n00:35:13.319 and of the same quality as its founders.\n\n00:35:33.464 Narrator: Stevie Dennisis harvesting a cluster\n\n00:35:35.591 of gooseneck barnacles,\n\n00:35:37.093 one of the most expensiveseafoods in the world.\n",
+          "start_time": "00:40:10.032",
+          "end_time": "00:40:21.502",
+          "entities": [
+            "Narrator",
+            "Kobaien",
+            "Narrator",
+            "Stevie Dennisis"
+          ],
+          "topics": [
+            "narrator",
+            "same",
+            "kobaien",
+            "strivesto",
+            "continue"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 17,
+          "text": "00:06:03.696 Narrator: Japanese chef'sknives are world-renowned\n\n00:06:05.698 for their unique design and durability.\n\n00:06:08.910 And just one can cost you over $900.\n\n00:06:13.247 From heating and hammering the metal\n\n00:06:18.211 to sharpening the knife's edge\n\n00:06:19.962 and polishing the final blade,\n",
+          "start_time": "00:07:40.626",
+          "end_time": "00:07:52.722",
+          "entities": [
+            "Narrator",
+            "Japanese",
+            "And",
+            "From"
+          ],
+          "topics": [
+            "narrator",
+            "japanese",
+            "chef",
+            "sknives",
+            "world"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 27,
+          "text": "00:10:23.372 made of natural rock,\n\n00:10:24.999 a sharpening material you'llonly see used in Japan.\n\n00:10:28.753 This step distinguishes an artisan's skill\n\n00:10:31.672 and ultimately sets a knife's final value.\n\n00:11:05.247 Narrator: It takes one fullday to sharpen the blade\n\n00:11:07.750 and another full day tosecure and polish the handle.\n",
+          "start_time": "00:14:05.594",
+          "end_time": "00:15:13.078",
+          "entities": [
+            "Japan",
+            "Narrator"
+          ],
+          "topics": [
+            "made",
+            "natural",
+            "rock",
+            "sharpening",
+            "material"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 24,
+          "text": "00:09:06.504 of ideal strength and thinness.\n\n00:09:10.299 Hammering leaves behind circular indents,\n\n00:09:13.052 something knife makers in thepast typically polished away.\n\n00:09:16.681 But 60 years ago,\n\n00:09:17.932 Terakuzu's father and his colleagues\n\n00:09:19.934 discovered the benefit of knives\n",
+          "start_time": "00:11:17.551",
+          "end_time": "00:12:03.222",
+          "entities": [
+            "Hammering",
+            "But",
+            "Terakuzu"
+          ],
+          "topics": [
+            "ideal",
+            "strength",
+            "thinness",
+            "hammering",
+            "leaves"
+          ],
+          "creation_time": 1743865703.1307418
+        }
+      ],
+      "query_type": "factual",
+      "timestamp": "2025-04-05T20:44:54.060766",
+      "tokens_used": 1098,
+      "batch_id": "demo_1743865706",
+      "question": "In what ways does the creation of Hasselblad cameras reflect a similar blend of precision and brand legacy as Steinway pianos?"
+    },
+    {
+      "answer": "Based on the provided transcript excerpts, we can determine why Japanese Ruby Roman grapes are considered a luxury, but we cannot compare their cultivation to Nonthaburi durian as there is no mention of Nonthaburi durian in the transcript.\n\n**Why Ruby Roman Grapes are considered a luxury:**\n\nThe transcript indicates that the effort to create Ruby Roman grapes began in 1995 when local grape farmers and Ishikawa's Agricultural Research Center collaborated to develop a \"new breed of large red grape\" [01:49:18 - 01:49:25].  The transcript mentions \"that the first Ruby Roman grapes went up for sale\" [01:49:13].  While the transcript does not explicitly state *why* they are a luxury, the description of the effort to \"develop a new breed of large red grape\" [01:49:25] suggests a deliberate and potentially resource-intensive process, which could contribute to their luxury status.\n\n**Comparison to Nonthaburi Durian:**\n\nThe transcript excerpts provided **do not contain any information** about Nonthaburi durian. Therefore, based *only* on the given transcript, we cannot determine if or how the cultivation of Ruby Roman grapes mirrors that of Nonthaburi durian.",
+      "success": true,
+      "response_time": 4.025201082229614,
+      "timestamps": [
+        "00:00:01.710",
+        "00:00:05.213",
+        "00:00:07.340",
+        "00:00:10.969",
+        "00:00:13.263",
+        "00:00:16.683",
+        "00:05:08.558",
+        "00:05:09.934",
+        "00:05:12.603",
+        "00:05:14.063",
+        "00:05:16.691",
+        "00:06:03.696",
+        "00:06:05.698",
+        "00:06:08.910",
+        "00:06:13.247",
+        "00:06:18.211",
+        "00:06:19.962",
+        "00:06:22.632",
+        "00:06:24.759",
+        "00:06:29.180",
+        "00:06:32.016",
+        "00:06:58.543",
+        "00:07:01.796",
+        "00:07:05.216",
+        "00:07:09.053",
+        "00:07:40.626",
+        "00:07:43.129",
+        "00:07:45.882",
+        "00:07:48.468",
+        "00:07:49.385",
+        "00:07:52.722",
+        "00:07:56.476",
+        "00:10:00.600",
+        "00:10:04.020",
+        "00:10:14.113",
+        "00:10:15.906",
+        "00:10:20.661",
+        "00:10:23.372",
+        "00:10:24.999",
+        "00:10:28.753",
+        "00:10:31.672",
+        "00:11:05.247",
+        "00:11:07.750",
+        "00:51:55.695",
+        "00:51:58.532",
+        "00:52:02.077",
+        "00:52:05.247",
+        "00:52:08.708",
+        "00:53:45.680",
+        "01:49:13",
+        "01:49:13.797",
+        "01:49:18",
+        "01:49:18.051",
+        "01:49:21.471",
+        "01:49:22.889",
+        "01:49:25",
+        "01:49:25.684",
+        "01:50:12.772"
+      ],
+      "confidence": 1.0,
+      "context_chunks": [
+        {
+          "chunk_id": 18,
+          "text": "00:06:19.962 and polishing the final blade,\n\n00:06:22.632 these are only a few of the skills\n\n00:06:24.759 a Japanese artisan spends alifetime learning to master.\n\n00:06:29.180 So what makes these knives so coveted?\n\n00:06:32.016 And why are they so expensive?\n\n00:06:58.543 Narrator: Terukazu has spent37 years crafting chef's knives\n",
+          "start_time": "00:07:56.476",
+          "end_time": "00:08:37.099",
+          "entities": [
+            "Japanese",
+            "So",
+            "And",
+            "Narrator",
+            "Terukazu"
+          ],
+          "topics": [
+            "these",
+            "knives",
+            "polishing",
+            "final",
+            "blade"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 19,
+          "text": "00:06:58.543 Narrator: Terukazu has spent37 years crafting chef's knives\n\n00:07:01.796 at his family's factory in Echizen.\n\n00:07:05.216 Each one goes through100 production stages.\n\n00:07:09.053 It's a process that requiresover 10 years of practice.\n\n00:07:40.626 Narrator: Compared to popularEuropean chef's knives,\n\n00:07:43.129 Japanese blades are lighter and sharper,\n",
+          "start_time": "00:08:39.644",
+          "end_time": "00:09:01.332",
+          "entities": [
+            "Narrator",
+            "Terukazu",
+            "Echizen",
+            "Each",
+            "Narrator",
+            "Compared",
+            "Japanese"
+          ],
+          "topics": [
+            "narrator",
+            "years",
+            "chef",
+            "knives",
+            "terukazu"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 20,
+          "text": "00:07:43.129 Japanese blades are lighter and sharper,\n\n00:07:45.882 allowing for more precise cuts.\n\n00:07:48.468 On the low end,\n\n00:07:49.385 most Takamura blades costa couple hundred dollars.\n\n00:07:52.722 But custom-made pieces cansell for 15 times that.\n\n00:07:56.476 One of the most expensiveknives produced by the shop\n",
+          "start_time": "00:09:04.001",
+          "end_time": "00:09:17.932",
+          "entities": [
+            "Japanese",
+            "On",
+            "Takamura",
+            "But",
+            "One"
+          ],
+          "topics": [
+            "blades",
+            "most",
+            "japanese",
+            "lighter",
+            "sharper"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 26,
+          "text": "00:10:00.600 It also added a beautifulaesthetic to each blade,\n\n00:10:04.020 another element highlyvalued in Japanese knives.\n\n00:10:14.113 Narrator: But a Japanesechef's knife wouldn't be\n\n00:10:15.906 nearly as valuable withoutits supremely sharp edge.\n\n00:10:20.661 An artisan presses the bladeagainst a rough grindstone\n\n00:10:23.372 made of natural rock,\n",
+          "start_time": "00:13:15.211",
+          "end_time": "00:14:03.133",
+          "entities": [
+            "Japanese",
+            "Narrator",
+            "But",
+            "Japanesechef"
+          ],
+          "topics": [
+            "also",
+            "added",
+            "beautifulaesthetic",
+            "each",
+            "blade"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 351,
+          "text": "01:49:13.797 that the first Ruby Romangrapes went up for sale.\n\n01:49:18.051 The effort to create them started in 1995\n\n01:49:21.471 when local grape farmers\n\n01:49:22.889 and Ishikawa's AgriculturalResearch Center\n\n01:49:25.684 came together to develop anew breed of large red grape.\n\n01:50:12.772 Narrator: What they ended up with\n",
+          "start_time": "02:16:43.904",
+          "end_time": "02:17:02.589",
+          "entities": [
+            "Ruby Romangrapes",
+            "Ishikawa",
+            "Center",
+            "Narrator",
+            "What"
+          ],
+          "topics": [
+            "grape",
+            "that",
+            "first",
+            "ruby",
+            "romangrapes"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 16,
+          "text": "00:05:08.558 as there are still few trained\n\n00:05:09.934 in the making of these silk threads.\n\n00:05:12.603 But despite the work involved,\n\n00:05:14.063 Phan Thi Thuan is hoping that this skill\n\n00:05:16.691 could one day grow tobecome a larger industry.\n\n00:06:03.696 Narrator: Japanese chef'sknives are world-renowned\n",
+          "start_time": "00:06:32.016",
+          "end_time": "00:07:09.053",
+          "entities": [
+            "But",
+            "Phan Thi Thuan",
+            "Narrator",
+            "Japanese"
+          ],
+          "topics": [
+            "there",
+            "still",
+            "trained",
+            "making",
+            "these"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 0,
+          "text": "00:00:01.710 From professional curling stoneshoned in Scotland\n\n00:00:05.213 to Japanese calligraphy ink\n\n00:00:07.340 kneaded by foot and hand,\n\n00:00:10.969 we've investigated countless luxury\n\n00:00:13.263 products from every corner of the world.\n\n00:00:16.683 To celebrate 10 seasons of \"So Expensive,\"\n",
+          "start_time": "00:00:01.710",
+          "end_time": "00:00:10.969",
+          "entities": [
+            "From",
+            "Scotland",
+            "Japanese",
+            "To",
+            "So Expensive"
+          ],
+          "topics": [
+            "from",
+            "professional",
+            "curling",
+            "stoneshoned",
+            "scotland"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 17,
+          "text": "00:06:03.696 Narrator: Japanese chef'sknives are world-renowned\n\n00:06:05.698 for their unique design and durability.\n\n00:06:08.910 And just one can cost you over $900.\n\n00:06:13.247 From heating and hammering the metal\n\n00:06:18.211 to sharpening the knife's edge\n\n00:06:19.962 and polishing the final blade,\n",
+          "start_time": "00:07:40.626",
+          "end_time": "00:07:52.722",
+          "entities": [
+            "Narrator",
+            "Japanese",
+            "And",
+            "From"
+          ],
+          "topics": [
+            "narrator",
+            "japanese",
+            "chef",
+            "sknives",
+            "world"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 27,
+          "text": "00:10:23.372 made of natural rock,\n\n00:10:24.999 a sharpening material you'llonly see used in Japan.\n\n00:10:28.753 This step distinguishes an artisan's skill\n\n00:10:31.672 and ultimately sets a knife's final value.\n\n00:11:05.247 Narrator: It takes one fullday to sharpen the blade\n\n00:11:07.750 and another full day tosecure and polish the handle.\n",
+          "start_time": "00:14:05.594",
+          "end_time": "00:15:13.078",
+          "entities": [
+            "Japan",
+            "Narrator"
+          ],
+          "topics": [
+            "made",
+            "natural",
+            "rock",
+            "sharpening",
+            "material"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 166,
+          "text": "00:51:55.695 he became one of the 180 swordsmiths\n\n00:51:58.532 working across Japan.\n\n00:52:02.077 Japanese swords have alwaysbeen more than just weapons.\n\n00:52:05.247 They were artworks, statussymbols, and throughout history,\n\n00:52:08.708 held a huge spiritual importance.\n\n00:53:45.680 Each sword is a unique artwork,\n",
+          "start_time": "01:06:02.333",
+          "end_time": "01:06:19.934",
+          "entities": [
+            "Japan",
+            "Japanese",
+            "They",
+            "Each"
+          ],
+          "topics": [
+            "became",
+            "swordsmiths",
+            "working",
+            "across",
+            "japan"
+          ],
+          "creation_time": 1743865703.1307418
+        }
+      ],
+      "query_type": "inferential",
+      "timestamp": "2025-04-05T20:45:31.600081",
+      "tokens_used": 1152,
+      "batch_id": "demo_1743865706",
+      "question": "Why are Japanese Ruby Roman grapes considered a luxury, and how does their cultivation mirror that of the Nonthaburi durian?"
+    },
+    {
+      "answer": "Based on the provided transcript excerpts, there is **no information** about sandalwood or Zellige tiles.\n\nTherefore, it is **not possible** to compare the sourcing and aging process of sandalwood to that of Zellige tiles in terms of craftsmanship and origin using ONLY the information provided in these excerpts.\n\nThe transcript excerpts focus on:\n\n*   **Lotus silk production:**\n    *   Its unique qualities (soft like silk, breathable like linen, slightly elastic) [00:04:52 - 00:04:55]\n    *   Its popularity with tourists [00:04:57 - 00:04:59]\n    *   The hand-spooling and weaving process [00:04:27 - 00:04:34]\n    *   Its fragility before weaving but durability after [00:04:31 - 00:04:34]\n    *   The manual extraction of each strand [00:01:42 - 00:01:44]\n    *   Comparison to silkworm silk production [00:01:18 - 00:01:26]\n    *   Its limited production in Cambodia, Myanmar, and Vietnam [00:00:36 - 00:00:40]\n    *   The skill required to extract the fiber [00:00:42 - 00:00:44]\n    *   The family tradition of Phan Thi Thuan in making silk [00:01:06 - 00:01:11]\n*   **Ink stick production:**\n    *   Traditional technique using oak ash to absorb moisture [00:31:09 - 00:31:16]\n    *   The process of swapping ashes over 40 days [00:31:18 - 00:31:27]\n    *   The aging process of at least four years [00:31:48 - 00:31:51]\n    *   The relationship between aging and quality/price [00:31:51 - 00:31:53]\n    *   Kobaien's collection of centuries-old ink sticks [00:31:59 - 00:32:01]\n    *   Polishing as a final step [00:32:36]\n*   **Knife sharpening:**\n    *   Use of natural rock sharpening material unique to Japan [00:10:23 - 00:10:24]\n    *   Sharpening as a skill distinguishing artisans [00:10:28 - 00:10:31]\n    *   The time taken for sharpening and handle work (two full days) [00:11:05 - 00:11:07]\n*   **Muga silk:**\n    *   Its relatively low production compared to other Indian silks like mulberry silk [01:03:11 - 01:03:17]\n    *   The small quantity produced (239 metric tons) [01:03:19]",
+      "success": true,
+      "response_time": 5.4969398975372314,
+      "timestamps": [
+        "00:00:35.660",
+        "00:00:36",
+        "00:00:36.911",
+        "00:00:40",
+        "00:00:40.415",
+        "00:00:42",
+        "00:00:42.125",
+        "00:00:44",
+        "00:00:44.419",
+        "00:00:47.756",
+        "00:00:58.349",
+        "00:01:00.060",
+        "00:01:06",
+        "00:01:06.649",
+        "00:01:08.860",
+        "00:01:11",
+        "00:01:11.863",
+        "00:01:15.492",
+        "00:01:18",
+        "00:01:18.453",
+        "00:01:20.872",
+        "00:01:22.373",
+        "00:01:24.793",
+        "00:01:26",
+        "00:01:26.336",
+        "00:01:36.054",
+        "00:01:38.389",
+        "00:01:40.642",
+        "00:01:42",
+        "00:01:42.519",
+        "00:01:44",
+        "00:01:44.813",
+        "00:02:15.802",
+        "00:04:25.723",
+        "00:04:27",
+        "00:04:27.350",
+        "00:04:29.894",
+        "00:04:31",
+        "00:04:31.980",
+        "00:04:34",
+        "00:04:34.190",
+        "00:04:37.360",
+        "00:04:48.454",
+        "00:04:50.665",
+        "00:04:52",
+        "00:04:52.917",
+        "00:04:55",
+        "00:04:55.253",
+        "00:04:57",
+        "00:04:57.088",
+        "00:04:59",
+        "00:04:59.674",
+        "00:10:23",
+        "00:10:23.372",
+        "00:10:24",
+        "00:10:24.999",
+        "00:10:28",
+        "00:10:28.753",
+        "00:10:31",
+        "00:10:31.672",
+        "00:11:05",
+        "00:11:05.247",
+        "00:11:07",
+        "00:11:07.750",
+        "00:31:09",
+        "00:31:09.909",
+        "00:31:12.829",
+        "00:31:16",
+        "00:31:16.165",
+        "00:31:18",
+        "00:31:18.751",
+        "00:31:22.839",
+        "00:31:27",
+        "00:31:27.302",
+        "00:31:48",
+        "00:31:48.948",
+        "00:31:51",
+        "00:31:51.784",
+        "00:31:53",
+        "00:31:53.870",
+        "00:31:59",
+        "00:31:59.083",
+        "00:32:01",
+        "00:32:01.336",
+        "00:32:36",
+        "00:32:36.704",
+        "01:03:07.241",
+        "01:03:11",
+        "01:03:11.412",
+        "01:03:13.748",
+        "01:03:14.791",
+        "01:03:17",
+        "01:03:17.210",
+        "01:03:19",
+        "01:03:19.253"
+      ],
+      "confidence": 1.0,
+      "context_chunks": [
+        {
+          "chunk_id": 14,
+          "text": "00:04:48.454 the hard work is worth it.\n\n00:04:50.665 The final product isunlike any other fiber.\n\n00:04:52.917 It's soft like silk,breathable like linen,\n\n00:04:55.253 and slightly elastic.\n\n00:04:57.088 These luxurious traits havemade it popular with tourists\n\n00:04:59.674 searching for rare souvenirs.\n",
+          "start_time": "00:05:14.063",
+          "end_time": "00:06:08.910",
+          "entities": [],
+          "topics": [
+            "like",
+            "hard",
+            "work",
+            "worth",
+            "final"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 12,
+          "text": "00:04:25.723 Narrator: Once dry, thesethreads are carefully\n\n00:04:27.350 weighed down and delicately hand-spooled.\n\n00:04:29.894 Then they're put into the loom.\n\n00:04:31.980 These fibers are fragile, but once woven,\n\n00:04:34.190 can be as durable as traditional silk.\n\n00:04:37.360 Phan has a team of 20 workers\n",
+          "start_time": "00:04:48.454",
+          "end_time": "00:05:01.592",
+          "entities": [
+            "Narrator",
+            "Once",
+            "Then",
+            "Phan"
+          ],
+          "topics": [
+            "once",
+            "narrator",
+            "thesethreads",
+            "carefully",
+            "weighed"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 87,
+          "text": "00:31:09.909 So artisans rely on atraditional technique,\n\n00:31:12.829 using oak ash to slowly absorbmoisture from the sticks\n\n00:31:16.165 over a long period of time.\n\n00:31:18.751 They start by coveringthe sticks in moist ashes.\n\n00:31:22.839 Each day, they swap yesterday'sashes with drier ones.\n\n00:31:27.302 They repeat this processfor up to 40 days,\n",
+          "start_time": "00:37:34.543",
+          "end_time": "00:37:49.433",
+          "entities": [
+            "So",
+            "They",
+            "Each",
+            "They"
+          ],
+          "topics": [
+            "they",
+            "sticks",
+            "artisans",
+            "rely",
+            "atraditional"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 4,
+          "text": "00:00:58.349 So just how is it made,\n\n00:01:00.060 and what makes it so expensive?\n\n00:01:06.649 Phan Thi Thuan's familyhave been making silk\n\n00:01:08.860 for generations, growingand harvesting the threads\n\n00:01:11.863 from silkworms themselvesto create luxury garments.\n\n00:01:15.492 But making lotus silk is different.\n",
+          "start_time": "00:01:00.060",
+          "end_time": "00:01:18.453",
+          "entities": [
+            "So",
+            "Phan Thi Thuan",
+            "But"
+          ],
+          "topics": [
+            "making",
+            "silk",
+            "just",
+            "made",
+            "makes"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 2,
+          "text": "00:00:35.660 in the world,\n\n00:00:36.911 produced only in small scaleacross Cambodia, Myanmar,\n\n00:00:40.415 and, more recently, Vietnam.\n\n00:00:42.125 This natural fiber is only extracted\n\n00:00:44.419 by a few skilled craftspeopleacross the world.\n\n00:00:47.756 But making this silk isn't easy.\n",
+          "start_time": "00:00:33.533",
+          "end_time": "00:00:44.419",
+          "entities": [
+            "Cambodia",
+            "Myanmar",
+            "Vietnam",
+            "But"
+          ],
+          "topics": [
+            "world",
+            "only",
+            "this",
+            "produced",
+            "small"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 27,
+          "text": "00:10:23.372 made of natural rock,\n\n00:10:24.999 a sharpening material you'llonly see used in Japan.\n\n00:10:28.753 This step distinguishes an artisan's skill\n\n00:10:31.672 and ultimately sets a knife's final value.\n\n00:11:05.247 Narrator: It takes one fullday to sharpen the blade\n\n00:11:07.750 and another full day tosecure and polish the handle.\n",
+          "start_time": "00:14:05.594",
+          "end_time": "00:15:13.078",
+          "entities": [
+            "Japan",
+            "Narrator"
+          ],
+          "topics": [
+            "made",
+            "natural",
+            "rock",
+            "sharpening",
+            "material"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 7,
+          "text": "00:01:36.054 they do most of the hard work themselves.\n\n00:01:38.389 The key difference betweenthe bright yellow silk\n\n00:01:40.642 and the paler lotus version\n\n00:01:42.519 is that every single strand of lotus silk\n\n00:01:44.813 must be extracted by hand.\n\n00:02:15.802 Narrator: Each thread oflotus silk starts with\n",
+          "start_time": "00:01:44.813",
+          "end_time": "00:02:25.019",
+          "entities": [
+            "Narrator",
+            "Each"
+          ],
+          "topics": [
+            "silk",
+            "lotus",
+            "they",
+            "most",
+            "hard"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 5,
+          "text": "00:01:15.492 But making lotus silk is different.\n\n00:01:18.453 Silk usually comes from silkworms.\n\n00:01:20.872 They're kept on wide trays\n\n00:01:22.373 and need to be fed almost 24 hours a day\n\n00:01:24.793 with mulberry leaves.\n\n00:01:26.336 The caterpillars delicately spin threads\n",
+          "start_time": "00:01:20.872",
+          "end_time": "00:01:29.798",
+          "entities": [
+            "But",
+            "Silk",
+            "They"
+          ],
+          "topics": [
+            "silk",
+            "making",
+            "lotus",
+            "different",
+            "usually"
+          ],
+          "creation_time": 1743865703.12974
+        },
+        {
+          "chunk_id": 89,
+          "text": "00:31:48.948 takes at least four years.\n\n00:31:51.784 The longer the sticks dry and age,\n\n00:31:53.870 the better they perform andthe more expensive they become.\n\n00:31:59.083 Kobaien itself has ink sticks\n\n00:32:01.336 that are hundreds of years old.\n\n00:32:36.704 Narrator: Finally, artisans polish them\n",
+          "start_time": "00:38:09.328",
+          "end_time": "00:38:21.382",
+          "entities": [
+            "Kobaien",
+            "Narrator",
+            "Finally"
+          ],
+          "topics": [
+            "years",
+            "sticks",
+            "they",
+            "takes",
+            "least"
+          ],
+          "creation_time": 1743865703.1307418
+        },
+        {
+          "chunk_id": 191,
+          "text": "01:03:07.241 and ability to reproduce.\n\n01:03:11.412 This can threaten therelatively low production\n\n01:03:13.748 of muga silk,\n\n01:03:14.791 compared to other expensiveIndian-made silks,\n\n01:03:17.210 like mulberry silk.\n\n01:03:19.253 Only about 239 metric tons of muga silk\n",
+          "start_time": "01:13:23.816",
+          "end_time": "01:13:35.911",
+          "entities": [
+            "Only"
+          ],
+          "topics": [
+            "silk",
+            "muga",
+            "ability",
+            "reproduce",
+            "this"
+          ],
+          "creation_time": 1743865703.1307418
+        }
+      ],
+      "query_type": "factual",
+      "timestamp": "2025-04-05T20:46:11.427443",
+      "tokens_used": 1312,
+      "batch_id": "demo_1743865706",
+      "question": "How does the sourcing and aging process of sandalwood compare to that of Zellige tiles in terms of craftsmanship and origin?"
+    },
+    {
+      "answer": "Error generating response: API returned empty response after all retry attempts",
+      "success": false,
+      "response_time": 21.879727125167847,
+      "error": "API returned empty response after all retry attempts"
+    }
+  ],
+  "metrics": {
+    "total_questions": 10,
+    "successful_questions": 5,
+    "failed_questions": 5,
+    "cache_hits": 0,
+    "tokens_saved": 0,
+    "tokens_used": 5617,
+    "token_savings_percent": 0.0,
+    "total_time_seconds": 522.99,
+    "avg_response_time_seconds": 52.3,
+    "batches_created": 10,
+    "independent_questions": 10,
+    "dependent_questions": 0,
+    "context_reuse_count": 0,
+    "api_calls": 5,
+    "api_calls_saved": 5,
+    "timestamp": "2025-04-05T20:47:14.949572"
+  },
+  "processing_time": 522.9862382411957,
+  "timestamp": 1743866234.9495723,
+  "config": {
+    "model": "gemini-2.0-flash-thinking-exp-01-21",
+    "questions_count": 10,
+    "transcript_length": 499811
+  },
+  "visualizations": {
+    "dependency_graph": "static/graphs/dependency_graph_demo_1743865706.png",
+    "token_savings": "static/graphs/token_savings.png",
+    "success_rates": "static/graphs/success_rates.png",
+    "api_calls": "static/graphs/api_calls.png"
+  }
+}
